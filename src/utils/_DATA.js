@@ -1,8 +1,8 @@
 let users = {
-  sarah_edo: {
-    id: "sarah_edo",
-    name: "Sarah Drasner",
-    avatarURL: "https://tylermcginnis.com/would-you-rather/sarah.jpg",
+  Tarek_sheta: {
+    id: "Tarek_Sheta",
+    name: "Tarek Shehabeldin",
+    avatarURL: "https://drive.google.com/file/d/18_hfM-udHtQ39oyj5dQxVLlBxlAhvx46/view?usp=sharing",
     tweets: ['8xf0y6ziyjabvozdd253nd', 'hbsc73kzqi75rg7v1e0i6a', '2mb6re13q842wu8n106bhk', '6h5ims9iks66d4m7kqizmv', '3sklxkf9yyfowrf0o1ftbb'],
   },
   tylermcginnis: {
